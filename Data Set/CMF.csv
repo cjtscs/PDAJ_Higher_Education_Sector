@@ -1,0 +1,16 @@
+﻿Course_ID,Course_Name,Instructor_ID,Campus_ID,College_ID
+BSCSI100,Bachelors in Computer Science Year 1,I0001,CA01,CO01
+BSCSI200,Bachelors in Computer Science Year 2,I0002,CA01,CO01
+BSCSI300,Bachelors in Computer Science Year 3,I0003,CA01,CO01
+MSCSI100,Masters in Computer Science Year 1,I0004,CA01,CO01
+MSCSI200,Masters in Computer Science Year 2,I0001,CA01,CO01
+BSBIO100,Bachelors in Biology Year 1,I0005,CA01,CO02
+BSBIO200,Bachelors in Biology Year 2,I0005,CA01,CO02
+BSBIO300,Bachelors in Biology Year 3,I0006,CA01,CO02
+MSBIO100,Masters in Biology Year 1,I0007,CA01,CO02
+MSBIO200,Masters in Biology Year 2,I0008,CA01,CO02
+BSNUS100,Bachelors in Nursing Year 1,I0009,CA01,CO02
+BSNUS200,Bachelors in Nursing Year 2,I0010,CA01,CO02
+BSNUS300,Bachelors in Nursing Year 3,I0011,CA01,CO02
+MSNUS100,Masters in Nursing Year 1,I0012,CA01,CO02
+MSNUS200,Masters in Nursing Year 2,I0013,CA01,CO02

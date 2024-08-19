@@ -1,0 +1,7 @@
+﻿Scholarship_ID,Scholarship_Type, Rate 
+SCH0001,Percentage, 0.50 
+SCH0002,Flat Fee, 500.00 
+SCH0003,Percentage, 0.25 
+SCH0004,Percentage, 0.50 
+SCH0005,Percentage, 1.00 
+SCH0006,Flat Fee," 1,000.00 "
